@@ -1,1 +1,1 @@
-# git_demo
+# git_rstudio_demo
